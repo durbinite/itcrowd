@@ -1,5 +1,3 @@
-###	Just run curl -w "@curl-format.txt" -o /dev/null -sL yoururl.com / ouput will be parsed  ###
-
             time_namelookup:  %{time_namelookup}\n
                time_connect:  %{time_connect}\n
             time_appconnect:  %{time_appconnect}\n
