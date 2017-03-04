@@ -15,4 +15,5 @@ Simpile script to run and check current dns on your current connection; bash dns
 
 ###SFTP - Check###
 Simple script to run and check a sftp connection; uses pysftp 
-hostname port username/password cnd onnect_timeout
+
+hostname port username/password and onnect_timeout
