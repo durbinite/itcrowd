@@ -14,4 +14,5 @@ Will check all current connected IP's and list them in the DDos_Check.txt file
 Simpile script to run and check current dns on your current connection; bash dns_verify.sh
 
 ###SFTP - Check###
-Simple script to run and check a sftp connection; Uses pysftp <hostname> <port> <username> <password> <connect_timeout>
+Simple script to run and check a sftp connection; uses pysftp 
+"<hostname> <port> <username> <password> <connect_timeout>"
