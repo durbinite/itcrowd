@@ -2,7 +2,7 @@
 ## These are a collection of small but useful networking scripts that make a few tasks quick and subjective. ##
 
 ###Curl Format###
-Just run curl -w "@curl-format.txt" -o /dev/null -sL yoururl.com / ouput will be parsed
+Just run curl -w "@curl-format.txt" -o /dev/null -sL "yoururl.com",  ouput will be parsed
 
 ###IP Finder###
 Add list of URL's to your mylist.txt and run this script. Results will be listed in IP_list.txt
